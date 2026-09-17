@@ -1,0 +1,16 @@
+build/
+build-*/
+*.pro.user
+*.pro.user.*
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+moc_*.cpp
+moc_*.h
+ui_*.h
+qrc_*.cpp
+Makefile
+Makefile.*
